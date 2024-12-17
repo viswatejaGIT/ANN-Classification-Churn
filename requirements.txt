@@ -1,0 +1,12 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+PyPDF2
+tensorflow==2.18.0
+scikit-learn
+tensorboard
